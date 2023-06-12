@@ -1,0 +1,165 @@
+Ahmed Butt, Assignment 6
+
+                ERROR REPORT      Page 1
+
+Record Number   Data
+----------------------------------------
+01              A015PEN       01752
+                NON ALPHA IN DESC
+
+02              C040FRYIN-PAN.01851
+                VALID DATA
+
+03              A141WHEELCHAIR1.252
+                PRICE IN TROUBLE
+                NON ALPHA IN DESC
+
+04              A042RING      1130
+                NON ALPHA IN DESC
+                WRONG VENDOR SERIES
+
+05              D050
+                VALID DATA
+
+06              D721
+                VALID DATA
+
+07              9060SINK      95007
+                WRONG MAINT CODE
+                PRICE IN TROUBLE
+                NON ALPHA IN DESC
+                WRONG VENDOR SERIES
+
+08              C453CHEST     09952
+                NON ALPHA IN DESC
+
+09              A030HANDLE    75004
+                PRICE IN TROUBLE
+                NON ALPHA IN DESC
+                WRONG VENDOR SERIES
+
+10              A795IRON        612
+                PRICE IN TROUBLE
+                NON ALPHA IN DESC
+
+11              C105BENCH     50001
+                NON ALPHA IN DESC
+
+12              A017FOLDER    17912
+                NON ALPHA IN DESC
+
+13              EN05          99999
+                WRONG MAINT CODE
+                PART NO. NOT NUMERIC
+                PRICE IN TROUBLE
+                DESCRIPTION MISSING
+                NON ALPHA IN DESC
+                WRONG VENDOR SERIES
+
+14              A1K7** BILL **00000
+                PART NO. NOT NUMERIC
+                PRICE IN TROUBLE
+                WRONG VENDOR SERIES
+
+15              A210    ALBUMS49991
+                NON ALPHA IN DESC
+
+
+                ERROR REPORT      Page 2
+
+Record Number   Data
+----------------------------------------
+16              C211RIBBON    01002
+                NON ALPHA IN DESC
+
+17              C240DESK PAD  0049
+                PRICE IN TROUBLE
+                NON ALPHA IN DESC
+                WRONG VENDOR SERIES
+
+18              A007SIDE TABLE47771
+                NON ALPHA IN DESC
+
+19              C241TEMPLATE  5001A
+                PRICE IN TROUBLE
+                NON ALPHA IN DESC
+                WRONG VENDOR SERIES
+
+20              A001          49991
+                DESCRIPTION MISSING
+                NON ALPHA IN DESC
+
+21              C019TAPE      11113
+                NON ALPHA IN DESC
+
+22               999CALENDER  00541
+                WRONG MAINT CODE
+                PRICE IN TROUBLE
+                NON ALPHA IN DESC
+
+23              D450
+                VALID DATA
+
+24              A997BINDERN   17212
+                NON ALPHA IN DESC
+
+25              D451
+                VALID DATA
+
+26              A665BOOK      22221
+                NON ALPHA IN DESC
+
+27              DA52
+                VALID DATA
+
+28              A555RULER     01392
+                NON ALPHA IN DESC
+
+29              A               019
+                PART NO. NOT NUMERIC
+                PRICE IN TROUBLE
+                DESCRIPTION MISSING
+                NON ALPHA IN DESC
+                WRONG VENDOR SERIES
+
+30              C666STAPLER   11112
+                NON ALPHA IN DESC
+
+
+                ERROR REPORT      Page 3
+
+Record Number   Data
+----------------------------------------
+31              C669REMOVER   22223
+                NON ALPHA IN DESC
+
+32              D700
+                VALID DATA
+
+33              A701BINDER    01001
+                NON ALPHA IN DESC
+
+34              A702L.H. BENCH49993
+                VALID DATA
+
+35              C999BENCHPRESS09992
+                NON ALPHA IN DESC
+
+36              D111CHAIN SAW
+                VALID DATA
+
+37              C232CALENDAR  09292
+                NON ALPHA IN DESC
+
+----------------------------------------
+INPUT        - 37
+
+GOOD         -  9
+
+IN ERROR     - 28
+
+GOOD ADDS    -  1
+
+GOOD CHANGES -  1
+
+GOOD DELETES -  7

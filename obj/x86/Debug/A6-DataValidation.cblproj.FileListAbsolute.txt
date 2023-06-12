@@ -1,0 +1,6 @@
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A6-DataValidation\bin\x86\Debug\A6_DataValidation.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A6-DataValidation\obj\x86\Debug\A6_DataValidation.exe
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A6-DataValidation\obj\x86\Debug\Program1.obj
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A6-DataValidation\bin\x86\Debug\A6-DataValidation.idy
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A6-DataValidation\obj\x86\Debug\A6-DataValidation.idy
+C:\Users\Typic\Documents\Work\Y2S2\MAFD-4202\A6-DataValidation\obj\x86\Debug\A6-DataValidation.obj
